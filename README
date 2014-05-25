@@ -1,0 +1,37 @@
+Program:         mergeSort
+Version:         1.0
+Date:            05/25/2014
+Website:         http://www.HumairAhmed.com
+Lead Developer:  Humair Ahmed 
+
+
+License:
+
+Open source software being distributed under GPLv2 license. For more 
+information see here:
+
+http://www.gnu.org/copyleft/gpl.html. 
+ 
+Can edit and redistribute code as long as above reference of authorship 
+is kept within the code.
+
+
+Program Description:
+
+Written for educational purposes. Program takes a list of numbers as arguments
+and sorts the list. Displays the final sorted list at end and how long it took 
+to sort in seconds.
+
+
+Ex:
+
+
+
+
+
+Dependencies:
+
+Python 3.3.0 was used to write this program.  
+
+
+
